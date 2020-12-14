@@ -5,6 +5,7 @@ Changelog
 Unreleased
 ==================
 
+* Make search results foldable
 * Fixed redirect issues when i18n_patterns had prefix_default_language = False
 * Fixed not checking slug uniqueness when moving a page
 * Fixed builds on RTD
