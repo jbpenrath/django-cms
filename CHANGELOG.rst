@@ -6,6 +6,7 @@ Changelog
 Unreleased
 ==================
 
+* Make search results foldable
 * Fixed builds on RTD
 * Enforce use of coverage > 4 for python 3.8 support
 
