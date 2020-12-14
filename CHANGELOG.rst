@@ -6,6 +6,7 @@ Changelog
 Unreleased
 ==================
 
+* Make search results foldable
 * Fixed builds on RTD
 
 3.8.0 (2020-10-28)
