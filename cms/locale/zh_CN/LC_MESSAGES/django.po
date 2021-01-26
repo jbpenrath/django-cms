@@ -1096,6 +1096,10 @@ msgstr "目录"
 #| "                  JavaScript seems to be disabled so please\n"
 #| "                  <a href=\"%(admin_add_page)s\" class=\"js-welcome-\">add a page</a> manually.\n"
 #| "              "
+
+msgid "There are too many descendants to unfold this page. Please search the page you are looking for."
+msgstr ""
+
 msgid ""
 "\n"
 "                            <em>There is no %(object)s around yet.</em>\n"

@@ -6,6 +6,8 @@ Changelog
 Unreleased
 ==================
 
+* Add a `CMS_PAGETREE_DESCENDANTS_LIMIT` setting to be able to prevent a
+  pagetree node from being unfoldable if it has too many descendants
 * Make search results foldable
 * Fixed builds on RTD
 * Enforce use of coverage > 4 for python 3.8 support

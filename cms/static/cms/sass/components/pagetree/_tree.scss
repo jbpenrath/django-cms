@@ -788,6 +788,9 @@
     .jstree-closed > .jstree-ocl {
         @include icon(arrow-right);
     }
+    .jstree-unfoldable > .jstree-ocl {
+        @include icon(minus);
+    }
     .jstree-loading > .jstree-ocl {
         @include icon(loader);
         &:before {
@@ -829,6 +832,7 @@
     }
 
     .jstree-open,
+    .jstree-unfoldable,
     .jstree-closed,
     .jstree-loading {
         > .jstree-anchor {
